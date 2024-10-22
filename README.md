@@ -1,26 +1,26 @@
 <h1>Verificador de Número Par ou Ímpar</h1>
 <p>Este programa em Java foi desenvolvido para verificar se um número inteiro inserido pelo usuário é par ou ímpar.</p>
 <h3>Funcionalidade</h3>
-<li>
-  <ul>O programa solicita que o usuário insira um número inteiro.</ul>
-  <ul>Após a entrada, o programa verifica se o número é par ou impede a operação do módulo.</ul>
-  <ul>O resultado é exibido na tela, informando se o número é par ou ímpar.</ul>
-</li>
+<ul>
+  <li>O programa solicita que o usuário insira um número inteiro.</li>
+  <li>Após a entrada, o programa verifica se o número é par ou impede a operação do módulo.</li>
+  <li>O resultado é exibido na tela, informando se o número é par ou ímpar.</li>
+</ul>
 
 <h3>Tecnologias Utilizadas</h3>
-<li>
-  <ul><strong>Java</strong> : Linguagem de programação utilizada.</ul>
-  <ul><strong>Scanner</strong> : Para capturar a entrada do usuário via console.</ul>
-</li>
+<ul>
+  <li><strong>Java</strong> : Linguagem de programação utilizada.</li>
+  <li><strong>Scanner</strong> : Para capturar a entrada do usuário via console.</li>
+</ul>
 
 <h3>Como usar</h3>
-<li>
-  <ol>Execute o programa.</ol>
-  <ol>Insira um número inteiro quando solicitado.</ol>
-  <ol>O programa verificará se o número é par ou imparcial e exibirá o resultado na tela.</ol>
+<ol>
+  <li>Execute o programa.</li>
+  <li>Insira um número inteiro quando solicitado.</li>
+  <li>O programa verificará se o número é par ou imparcial e exibirá o resultado na tela.</li>
 </li>
 
 <h3>Dependências</h3>
 <ol>
-  <ul>Não há dependência externa. O programa usa apenas aulas da biblioteca padrão do Java.</ul>
+  <li>Não há dependência externa. O programa usa apenas aulas da biblioteca padrão do Java.</li>
 </ol>
