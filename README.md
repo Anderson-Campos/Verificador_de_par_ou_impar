@@ -21,6 +21,6 @@
 </li>
 
 <h3>Dependências</h3>
-<ol>
+<ul>
   <li>Não há dependência externa. O programa usa apenas aulas da biblioteca padrão do Java.</li>
-</ol>
+</ul>
